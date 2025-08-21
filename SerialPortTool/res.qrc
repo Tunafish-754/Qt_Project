@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/icons8-rs-232女-100.png</file>
+        <file>Icon/iconSerialport.png</file>
+    </qresource>
+</RCC>
