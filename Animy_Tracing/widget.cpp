@@ -82,4 +82,6 @@ void Widget::paintEvent(QPaintEvent *event)
     pen.setStyle(Qt::DashLine);
     painter.setPen(pen);
     painter.drawLine(QPoint(0,r-1),QPoint(0,18));
+
+    qDebug() << sizeof(int);
 }

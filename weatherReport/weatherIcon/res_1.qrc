@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cloud.png</file>
+        <file>cloudy.png</file>
+        <file>cloudy_rainy.png</file>
+        <file>dust.png</file>
+        <file>dust2.png</file>
+        <file>leafage.png</file>
+        <file>lightning.png</file>
+        <file>littleRainy.png</file>
+        <file>rainy.png</file>
+        <file>res_1.qrc</file>
+        <file>search.png</file>
+        <file>strom.png</file>
+        <file>sunny.png</file>
+        <file>wet.png</file>
+        <file>wind.png</file>
+    </qresource>
+</RCC>
